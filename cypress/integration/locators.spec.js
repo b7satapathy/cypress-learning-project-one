@@ -21,5 +21,6 @@ describe("Locators", () => {
     cy.get("[id='btn-with-id'");
 
     //hey this is a new line
+    // to check vs code git conncetion
   });
 });
